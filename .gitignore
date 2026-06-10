@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
